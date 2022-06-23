@@ -8,6 +8,13 @@
   background: linear-gradient(150deg, #d9dbe2, #808aac 100%, #282d39 0);
 }
 
+@media screen and (max-width: 768px) {
+  .background {
+    width: 100vw;
+    height: 100vh;
+  }
+}
+
 .auth-container {
   width: 420px;
   height: 292px;
