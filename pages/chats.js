@@ -40,8 +40,7 @@ export default function Chats() {
   return (
     <>
       <Head>
-        {/* <title>NextJS Chat</title> */}
-        <title>Stay Nrm</title>
+        <title>NextJS Chat</title>
         <meta name="viewport" />
       </Head>
       <div className="background">

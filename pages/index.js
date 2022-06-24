@@ -28,15 +28,13 @@ export default function Auth() {
   return (
     <>
       <Head>
-        {/* <title>NextJS Chat</title> */}
-        <title>Stay Nrm</title>
+        <title>NextJS Chat</title>
         <meta name="viewport" />
       </Head>
       <div className="background">
         <div className="auth-container">
           <form className="auth-form" onSubmit={(e) => onSubmit(e)}>
-            {/* <div className="auth-title">NextJS Chat</div> */}
-            <div className="auth-title">Stay Nrm</div>
+            <div className="auth-title">NextJS Chat</div>
 
             <div className="input-container">
               <input
