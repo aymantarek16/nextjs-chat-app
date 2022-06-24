@@ -41,7 +41,7 @@ export default function Chats() {
     <>
       <Head>
         {/* <title>NextJS Chat</title> */}
-        <title>stay nrm</title>
+        <title>Stay Nrm</title>
         <meta name="viewport" />
       </Head>
       <div className="background">
