@@ -13,7 +13,7 @@ const Erorr = () => {
   return (
     <div>
       <Head>
-        <title>404 || Erorr</title>
+        <title>404 | Erorr</title>
       </Head>
       Page not found &#128579;
     </div>
